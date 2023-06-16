@@ -19,7 +19,10 @@ Whats not working:
 
 (Nothing)
 
-You can use my efi folder that i have provided!![Screenshot 2023-06-16 at 10 29 51 AM](https://github.com/Naveenreddy7571/Hp14q-hackintosh/assets/107619639/11198f84-35fd-4ebe-881a-46c59bc7588e)
+You can use my efi folder that i have provided!!
+
+![Screenshot 2023-06-16 at 10 29 51 AM](https://github.com/Naveenreddy7571/Hp14q-hackintosh/assets/107619639/f1001e00-2c47-4303-8525-e62bad394752)
+
 
 And the power usage when i am on my powersource ac Adpadter:
 
